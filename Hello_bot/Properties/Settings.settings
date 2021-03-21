@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Hello_bot.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="all_hello" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="pikon_on" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="pikon_1_on" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="pikon_1" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">03/21/2021 07:00:00</Value>
+    </Setting>
+    <Setting Name="pikon_2_on" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="pikon_2" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">03/21/2021 12:00:00</Value>
+    </Setting>
+    <Setting Name="pikon_3_on" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="pikon_3" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">03/21/2021 18:00:00</Value>
+    </Setting>
+    <Setting Name="hop_on" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
