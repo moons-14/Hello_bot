@@ -107,7 +107,7 @@ namespace Hello_bot
 
         private void button3_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("ｺﾝﾊﾞﾝヮ♪(-ω-｀*)",
+            MessageBox.Show("ｺﾝﾊﾞﾝヮ♪(-ω-｀*) ",
             "moons挨拶",
             MessageBoxButtons.OK,
             MessageBoxIcon.Asterisk);
